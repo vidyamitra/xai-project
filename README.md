@@ -1,3 +1,4 @@
+<img width="918" height="435" alt="Screenshot 2026-11-16 at 10 49 14 PM" src="https://github.com/user-attachments/assets/9541b25f-030b-4bc9-9c9e-48850838fe0c" />
 # Explainable AI (DS5622) Course Project
 
 Faster Formal Explanations by Guided Deletion:Vidya M,Ben George
