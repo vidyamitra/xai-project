@@ -1,0 +1,8 @@
+# Suggested pinned, Python >=3.11 environment for the uploaded notebook.
+# These versions were found in the review environment; the complete 120-case study
+# has NOT been rerun under this exact environment by the reviewer.
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+matplotlib==3.10.8
+notebook==7.5.3
